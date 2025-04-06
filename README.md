@@ -1,8 +1,8 @@
 # Weather_Project
 
-Add This Command On Your IDE Terminal:
-1.pip install flask 
-2.pip install requests
+Add This Command On Your IDE Terminal:br
+1.pip install flask br
+2.pip install requests br
 
 
 Output Of The Code:
