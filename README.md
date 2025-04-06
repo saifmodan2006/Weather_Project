@@ -1,1 +1,4 @@
 # Weather_Project
+
+Output Of The Code:
+![wheather image](https://github.com/user-attachments/assets/ebe7ac63-35b0-4713-b5a4-933a8d69a8c2)
