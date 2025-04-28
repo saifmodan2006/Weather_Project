@@ -1,10 +1,10 @@
 <h1>Weather Project 🌦️<h1>
-<h1>📋 Project Description
+<h1>📋 Project Description</h1>
 This Weather Project is a web application built with Flask that allows users to check real-time weather information by entering a city name.
 It fetches data from the OpenWeatherMap API and displays temperature, humidity, wind speed, and weather condition in a clean and user-friendly interface.
 
 The project demonstrates practical usage of Flask, HTML, CSS, and third-party API integration, making it a great beginner-friendly project for web development and backend learning.
-🚀 Features
+<h1>🚀 Features</h1>
 Search weather by city name
 
 Displays:
@@ -20,14 +20,14 @@ Wind speed (m/s)
 Error handling for invalid city names
 
 Responsive and clean user interface
-🛠️ Tech Stack
+<h1>🛠️ Tech Stack</h1>
 Backend: Python, Flask
 
 Frontend: HTML5, CSS3 (Jinja2 templating)
 
 API: OpenWeatherMap API
 
-📦 Installation
+<h1>📦 Installation</h1>
 Clone the repository:
 
 1.Clone the repository:
@@ -48,11 +48,11 @@ python app.py
 http://127.0.0.1:5000/
 
 
-📸 Screenshots
+<h3>📸 Screenshots</h3>
 ![wheather image](https://github.com/user-attachments/assets/ebe7ac63-35b0-4713-b5a4-933a8d69a8c2)
 
-🙌 Contributing
+<h2>🙌 Contributing</h2>
 Contributions, issues, and feature requests are welcome!
 Feel free to check the issues page or submit a pull request.
-📄 License
+<h3>📄 License</h3>
 This project is licensed under the MIT License.
