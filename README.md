@@ -1,5 +1,5 @@
-Weather Project 🌦️
-📋 Project Description
+<h1>Weather Project 🌦️<h1>
+<h1>📋 Project Description
 This Weather Project is a web application built with Flask that allows users to check real-time weather information by entering a city name.
 It fetches data from the OpenWeatherMap API and displays temperature, humidity, wind speed, and weather condition in a clean and user-friendly interface.
 
