@@ -32,18 +32,18 @@ Clone the repository:
 
 1.Clone the repository:
 git clone https://github.com/your-username/Weather_Project.git
-cd Weather_Project
+cd Weather_Project <br>
 2.Create a virtual environment (recommended):
 python -m venv venv
 source venv/bin/activate  # For Linux/Mac
-venv\Scripts\activate     # For Windows
+venv\Scripts\activate     # For Windows <br>
 3.Install dependencies:
-pip install -r requirements.txt
+pip install -r requirements.txt <br>
 4.Set up your API key:
 Get your free API key from OpenWeatherMap.
-Replace "your_openweathermap_api_key" in app.py with your actual key.
+Replace "your_openweathermap_api_key" in app.py with your actual key. <br>
 5.Run the application:
-python app.py
+python app.py <br>
 6.Open in your browser:
 http://127.0.0.1:5000/
 
